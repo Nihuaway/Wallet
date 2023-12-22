@@ -1,4 +1,4 @@
-package troxya.wallet.wallet;
+package troxya.wallet;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

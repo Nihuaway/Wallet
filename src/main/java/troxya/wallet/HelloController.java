@@ -1,4 +1,4 @@
-package troxya.wallet.wallet;
+package troxya.wallet;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

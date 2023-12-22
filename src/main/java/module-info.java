@@ -10,6 +10,6 @@ module troxya.wallet.wallet {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
 
-    opens troxya.wallet.wallet to javafx.fxml;
-    exports troxya.wallet.wallet;
+    opens troxya.wallet to javafx.fxml;
+    exports troxya.wallet;
 }
